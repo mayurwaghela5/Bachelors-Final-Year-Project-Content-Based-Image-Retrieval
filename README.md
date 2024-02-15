@@ -10,3 +10,15 @@ Goals and Objectives
 The objectives of this study are:
 1. To find the attributes of the images using feature extraction.
 2. To check the resemblance of the images using a similarity check.
+
+
+
+
+Journals where this project is published
+
+http://www.rjetm.in/RJETM/Vol02_Issue01/Content%20Based%20Image%20Retrieval%20Using%20Wavelet%20Transform.pdf
+
+http://www.ijrat.org/downloads/Conference_Proceedings/NCRITSI-2K19/NCRITSI2K19-09.pdf
+
+
+
