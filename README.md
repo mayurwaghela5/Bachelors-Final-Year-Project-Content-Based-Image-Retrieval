@@ -11,12 +11,9 @@ Outcome
 • Retrieve image of input image feed to system
 
 Applications
-• Crime Prevention- The police use visual information to identify people or to
-record the scenes of crime for evidence.
-• Medical images- Doctors or specialists use CBIR on X-ray, MRI, ultrasound
-and other medical scanned images.
-• Fashion and graphic design- Viewing all previous design photographs, graphics
-or catalogs.
+• Crime Prevention: The police use visual information to identify people or to record the scenes of crime for evidence.
+• Medical images: Doctors or specialists use CBIR on X-ray, MRI, ultrasound and other medical scanned images.
+• Fashion and graphic design: Viewing all previous design photographs, graphics or catalogs.
 
 
 Content Based Image Retrieval
