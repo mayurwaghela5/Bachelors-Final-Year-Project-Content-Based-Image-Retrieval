@@ -7,29 +7,30 @@ to perform efficiently in terms of average precision and recall values. The ment
 
 This work can be further used in some domain-based applications such as finger print recognition, retina identification, and object detection for large image database. Also the feature extraction in wavelet transform is done sequentially in our project. It can be optimized by using parallel method for feature extraction. Extension for this project can be in Content Based Video Retrieval.
 
-Outcome
+<strong>Outcome</strong>
+
 • Retrieve image of input image feed to system
 
-Applications
+<strong>Applications</strong>
+
 • Crime Prevention: The police use visual information to identify people or to record the scenes of crime for evidence.
 • Medical images: Doctors or specialists use CBIR on X-ray, MRI, ultrasound and other medical scanned images.
 • Fashion and graphic design: Viewing all previous design photographs, graphics or catalogs.
 
 
-Content Based Image Retrieval
+<strong>Software Resources Required</strong>
 
-4.7 Software Resources Required
 Platform :Python
 1. Operating System: Windows7/8/10, MacOS
 2. IDE: Python IDE/ Anaconda
 3. Programming Language: Python
 
-Goals and Objectives
+<strong>Goals and Objectives</strong>
 The objectives of this study are:
 1. To find the attributes of the images using feature extraction.
 2. To check the resemblance of the images using a similarity check.
 
-Output Snaps
+<strong>Output Snaps</strong>
 
 ![*Snap1](./images/1.png)
 
